@@ -23,7 +23,8 @@ Schedule reminders with titles and custom times. Uses `flutter_local_notificatio
 ✅ Auto-trigger notification on schedule  
 
 ## 🖼️ Demo Video
-🎥 *(Paste demo video link here)*
+🎥
+https://github.com/user-attachments/assets/55c0de88-a32d-497c-a161-5f150f3fedc3
 
 ## ▶️ Run
 ```bash
